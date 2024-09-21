@@ -42,3 +42,4 @@ str_sub(x, -3, -1)
 #> [1] "ple" "ana" "ear"
 #> 
 #> https://r4ds.had.co.nz/strings.html
+#> 
