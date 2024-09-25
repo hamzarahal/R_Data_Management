@@ -1,6 +1,6 @@
 # R for Data Management
 
-we will embark on a transformative journey through the world of R programming, starting from the very basics and gradually progressing to advanced concepts. My aim is to make coding 
+We will embark on a transformative journey through the world of R programming, starting from the very basics and gradually progressing to advanced concepts. My aim is to make coding 
 accessible and enjoyable for everyone, regardless of prior experience or technical background.
 
 The repo is structured into two main sections:
